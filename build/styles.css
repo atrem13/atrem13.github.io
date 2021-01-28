@@ -4318,6 +4318,10 @@ video {
   background-image: url('/assets/images/hero.svg');
 }
 
+.bg-hero-pattern2 {
+  background-image: url('/assets/images/hero2.svg');
+}
+
 .from-transparent {
   --tw-gradient-from: transparent;
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -35472,6 +35476,10 @@ video {
     background-image: url('/assets/images/hero.svg');
   }
 
+  .sm\:bg-hero-pattern2 {
+    background-image: url('/assets/images/hero2.svg');
+  }
+
   .sm\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -66546,6 +66554,10 @@ video {
 
   .md\:bg-hero-pattern {
     background-image: url('/assets/images/hero.svg');
+  }
+
+  .md\:bg-hero-pattern2 {
+    background-image: url('/assets/images/hero2.svg');
   }
 
   .md\:from-transparent {
@@ -97624,6 +97636,10 @@ video {
     background-image: url('/assets/images/hero.svg');
   }
 
+  .lg\:bg-hero-pattern2 {
+    background-image: url('/assets/images/hero2.svg');
+  }
+
   .lg\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -128700,6 +128716,10 @@ video {
     background-image: url('/assets/images/hero.svg');
   }
 
+  .xl\:bg-hero-pattern2 {
+    background-image: url('/assets/images/hero2.svg');
+  }
+
   .xl\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -159774,6 +159794,10 @@ video {
 
   .\32xl\:bg-hero-pattern {
     background-image: url('/assets/images/hero.svg');
+  }
+
+  .\32xl\:bg-hero-pattern2 {
+    background-image: url('/assets/images/hero2.svg');
   }
 
   .\32xl\:from-transparent {

@@ -10,6 +10,7 @@ module.exports = {
       },
       backgroundImage: theme => ({
         'hero-pattern': "url('/assets/images/hero.svg')",
+        'hero-pattern2': "url('/assets/images/hero2.svg')",
       }),
     },
   },
