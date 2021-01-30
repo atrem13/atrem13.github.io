@@ -4322,6 +4322,10 @@ video {
   background-image: url('/assets/images/hero2.svg');
 }
 
+.bg-skill-experience-pattern {
+  background-image: url('/assets/images/skill & experience bg.svg');
+}
+
 .from-transparent {
   --tw-gradient-from: transparent;
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -35480,6 +35484,10 @@ video {
     background-image: url('/assets/images/hero2.svg');
   }
 
+  .sm\:bg-skill-experience-pattern {
+    background-image: url('/assets/images/skill & experience bg.svg');
+  }
+
   .sm\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -66558,6 +66566,10 @@ video {
 
   .md\:bg-hero-pattern2 {
     background-image: url('/assets/images/hero2.svg');
+  }
+
+  .md\:bg-skill-experience-pattern {
+    background-image: url('/assets/images/skill & experience bg.svg');
   }
 
   .md\:from-transparent {
@@ -97640,6 +97652,10 @@ video {
     background-image: url('/assets/images/hero2.svg');
   }
 
+  .lg\:bg-skill-experience-pattern {
+    background-image: url('/assets/images/skill & experience bg.svg');
+  }
+
   .lg\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -128720,6 +128736,10 @@ video {
     background-image: url('/assets/images/hero2.svg');
   }
 
+  .xl\:bg-skill-experience-pattern {
+    background-image: url('/assets/images/skill & experience bg.svg');
+  }
+
   .xl\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -159798,6 +159818,10 @@ video {
 
   .\32xl\:bg-hero-pattern2 {
     background-image: url('/assets/images/hero2.svg');
+  }
+
+  .\32xl\:bg-skill-experience-pattern {
+    background-image: url('/assets/images/skill & experience bg.svg');
   }
 
   .\32xl\:from-transparent {
