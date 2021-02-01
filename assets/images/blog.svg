@@ -3,38 +3,38 @@
 <rect width="1600" height="900" transform="matrix(-1 0 0 1 1600 0)" fill="#EDF6FF"/>
 </mask>
 <g mask="url(#mask0)">
-<path d="M1600 0H0V900H1600V0Z" fill="#437FC7"/>
-<circle cx="1426" cy="683" r="10" fill="#EDF6FF"/>
-<circle cx="1464" cy="683" r="10" fill="#EDF6FF"/>
-<circle cx="1502" cy="683" r="10" fill="#EDF6FF"/>
-<circle cx="1540" cy="683" r="10" fill="#EDF6FF"/>
-<circle cx="1426" cy="721" r="10" fill="#EDF6FF"/>
-<circle cx="1464" cy="721" r="10" fill="#EDF6FF"/>
-<circle cx="1502" cy="721" r="10" fill="#EDF6FF"/>
-<circle cx="1540" cy="721" r="10" fill="#EDF6FF"/>
-<circle cx="1426" cy="759" r="10" fill="#EDF6FF"/>
-<circle cx="1464" cy="759" r="10" fill="#EDF6FF"/>
-<circle cx="1502" cy="759" r="10" fill="#EDF6FF"/>
-<circle cx="1540" cy="759" r="10" fill="#EDF6FF"/>
-<circle cx="1426" cy="797" r="10" fill="#EDF6FF"/>
-<circle cx="1464" cy="797" r="10" fill="#EDF6FF"/>
-<circle cx="1502" cy="797" r="10" fill="#EDF6FF"/>
-<circle cx="1540" cy="797" r="10" fill="#EDF6FF"/>
-<circle cx="1426" cy="835" r="10" fill="#EDF6FF"/>
-<circle cx="1464" cy="835" r="10" fill="#EDF6FF"/>
-<circle cx="1502" cy="835" r="10" fill="#EDF6FF"/>
-<circle cx="1540" cy="835" r="10" fill="#EDF6FF"/>
-<circle cx="1426" cy="873" r="10" fill="#EDF6FF"/>
-<circle cx="1464" cy="873" r="10" fill="#EDF6FF"/>
-<circle cx="1502" cy="873" r="10" fill="#EDF6FF"/>
-<circle cx="1540" cy="873" r="10" fill="#EDF6FF"/>
-<circle cx="60" cy="507" r="10" transform="rotate(-90 60 507)" fill="#EDF6FF"/>
-<circle cx="60" cy="469" r="10" transform="rotate(-90 60 469)" fill="#EDF6FF"/>
-<circle cx="60" cy="431" r="10" transform="rotate(-90 60 431)" fill="#EDF6FF"/>
-<circle cx="60" cy="393" r="10" transform="rotate(-90 60 393)" fill="#EDF6FF"/>
-<circle cx="98" cy="507" r="10" transform="rotate(-90 98 507)" fill="#EDF6FF"/>
-<circle cx="98" cy="469" r="10" transform="rotate(-90 98 469)" fill="#EDF6FF"/>
-<circle cx="98" cy="431" r="10" transform="rotate(-90 98 431)" fill="#EDF6FF"/>
-<circle cx="98" cy="393" r="10" transform="rotate(-90 98 393)" fill="#EDF6FF"/>
+<path d="M1600 0H0V900H1600V0Z" fill="#EDF6FF"/>
+<circle cx="1426" cy="683" r="10" fill="#437FC7"/>
+<circle cx="1464" cy="683" r="10" fill="#437FC7"/>
+<circle cx="1502" cy="683" r="10" fill="#437FC7"/>
+<circle cx="1540" cy="683" r="10" fill="#437FC7"/>
+<circle cx="1426" cy="721" r="10" fill="#437FC7"/>
+<circle cx="1464" cy="721" r="10" fill="#437FC7"/>
+<circle cx="1502" cy="721" r="10" fill="#437FC7"/>
+<circle cx="1540" cy="721" r="10" fill="#437FC7"/>
+<circle cx="1426" cy="759" r="10" fill="#437FC7"/>
+<circle cx="1464" cy="759" r="10" fill="#437FC7"/>
+<circle cx="1502" cy="759" r="10" fill="#437FC7"/>
+<circle cx="1540" cy="759" r="10" fill="#437FC7"/>
+<circle cx="1426" cy="797" r="10" fill="#437FC7"/>
+<circle cx="1464" cy="797" r="10" fill="#437FC7"/>
+<circle cx="1502" cy="797" r="10" fill="#437FC7"/>
+<circle cx="1540" cy="797" r="10" fill="#437FC7"/>
+<circle cx="1426" cy="835" r="10" fill="#437FC7"/>
+<circle cx="1464" cy="835" r="10" fill="#437FC7"/>
+<circle cx="1502" cy="835" r="10" fill="#437FC7"/>
+<circle cx="1540" cy="835" r="10" fill="#437FC7"/>
+<circle cx="1426" cy="873" r="10" fill="#437FC7"/>
+<circle cx="1464" cy="873" r="10" fill="#437FC7"/>
+<circle cx="1502" cy="873" r="10" fill="#437FC7"/>
+<circle cx="1540" cy="873" r="10" fill="#437FC7"/>
+<circle cx="60" cy="507" r="10" transform="rotate(-90 60 507)" fill="#437FC7"/>
+<circle cx="60" cy="469" r="10" transform="rotate(-90 60 469)" fill="#437FC7"/>
+<circle cx="60" cy="431" r="10" transform="rotate(-90 60 431)" fill="#437FC7"/>
+<circle cx="60" cy="393" r="10" transform="rotate(-90 60 393)" fill="#437FC7"/>
+<circle cx="98" cy="507" r="10" transform="rotate(-90 98 507)" fill="#437FC7"/>
+<circle cx="98" cy="469" r="10" transform="rotate(-90 98 469)" fill="#437FC7"/>
+<circle cx="98" cy="431" r="10" transform="rotate(-90 98 431)" fill="#437FC7"/>
+<circle cx="98" cy="393" r="10" transform="rotate(-90 98 393)" fill="#437FC7"/>
 </g>
 </svg>
