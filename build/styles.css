@@ -4326,6 +4326,14 @@ video {
   background-image: url('/assets/images/skill & experience bg.svg');
 }
 
+.bg-skill-experience-pattern2 {
+  background-image: url('/assets/images/skill & experience bg2.svg');
+}
+
+.bg-blog-pattern {
+  background-image: url('/assets/images/blog.svg');
+}
+
 .from-transparent {
   --tw-gradient-from: transparent;
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -35488,6 +35496,14 @@ video {
     background-image: url('/assets/images/skill & experience bg.svg');
   }
 
+  .sm\:bg-skill-experience-pattern2 {
+    background-image: url('/assets/images/skill & experience bg2.svg');
+  }
+
+  .sm\:bg-blog-pattern {
+    background-image: url('/assets/images/blog.svg');
+  }
+
   .sm\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -66570,6 +66586,14 @@ video {
 
   .md\:bg-skill-experience-pattern {
     background-image: url('/assets/images/skill & experience bg.svg');
+  }
+
+  .md\:bg-skill-experience-pattern2 {
+    background-image: url('/assets/images/skill & experience bg2.svg');
+  }
+
+  .md\:bg-blog-pattern {
+    background-image: url('/assets/images/blog.svg');
   }
 
   .md\:from-transparent {
@@ -97656,6 +97680,14 @@ video {
     background-image: url('/assets/images/skill & experience bg.svg');
   }
 
+  .lg\:bg-skill-experience-pattern2 {
+    background-image: url('/assets/images/skill & experience bg2.svg');
+  }
+
+  .lg\:bg-blog-pattern {
+    background-image: url('/assets/images/blog.svg');
+  }
+
   .lg\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -128740,6 +128772,14 @@ video {
     background-image: url('/assets/images/skill & experience bg.svg');
   }
 
+  .xl\:bg-skill-experience-pattern2 {
+    background-image: url('/assets/images/skill & experience bg2.svg');
+  }
+
+  .xl\:bg-blog-pattern {
+    background-image: url('/assets/images/blog.svg');
+  }
+
   .xl\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -159822,6 +159862,14 @@ video {
 
   .\32xl\:bg-skill-experience-pattern {
     background-image: url('/assets/images/skill & experience bg.svg');
+  }
+
+  .\32xl\:bg-skill-experience-pattern2 {
+    background-image: url('/assets/images/skill & experience bg2.svg');
+  }
+
+  .\32xl\:bg-blog-pattern {
+    background-image: url('/assets/images/blog.svg');
   }
 
   .\32xl\:from-transparent {
