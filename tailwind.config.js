@@ -20,6 +20,7 @@ module.exports = {
         'skill-experience-pattern': "url('/assets/images/skill & experience bg.svg')",
         'skill-experience-pattern2': "url('/assets/images/skill & experience bg2.svg')",
         'blog-pattern': "url('/assets/images/blog.svg')",
+        'blog-pattern-sm': "url('/assets/images/blog-sm.svg')",
         'footer-pattern': "url('/assets/images/footer.svg')",
       }),
     },

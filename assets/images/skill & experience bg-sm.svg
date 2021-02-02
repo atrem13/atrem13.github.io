@@ -1,0 +1,36 @@
+<svg width="720" height="800" viewBox="0 0 720 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="720" height="800">
+<rect width="720" height="800" transform="matrix(-1 0 0 1 720 0)" fill="#EDF6FF"/>
+</mask>
+<g mask="url(#mask0)">
+<path d="M720 0H1.90735e-05V800H720V0Z" fill="#EDF6FF"/>
+</g>
+<circle cx="605" cy="664" r="5" fill="#437FC7"/>
+<circle cx="625" cy="664" r="5" fill="#437FC7"/>
+<circle cx="645" cy="664" r="5" fill="#437FC7"/>
+<circle cx="665" cy="664" r="5" fill="#437FC7"/>
+<circle cx="605" cy="684" r="5" fill="#437FC7"/>
+<circle cx="625" cy="684" r="5" fill="#437FC7"/>
+<circle cx="645" cy="684" r="5" fill="#437FC7"/>
+<circle cx="665" cy="684" r="5" fill="#437FC7"/>
+<circle cx="605" cy="704" r="5" fill="#437FC7"/>
+<circle cx="625" cy="704" r="5" fill="#437FC7"/>
+<circle cx="645" cy="704" r="5" fill="#437FC7"/>
+<circle cx="665" cy="704" r="5" fill="#437FC7"/>
+<circle cx="605" cy="724" r="5" fill="#437FC7"/>
+<circle cx="625" cy="724" r="5" fill="#437FC7"/>
+<circle cx="645" cy="724" r="5" fill="#437FC7"/>
+<circle cx="665" cy="724" r="5" fill="#437FC7"/>
+<circle cx="605" cy="744" r="5" fill="#437FC7"/>
+<circle cx="625" cy="744" r="5" fill="#437FC7"/>
+<circle cx="645" cy="744" r="5" fill="#437FC7"/>
+<circle cx="665" cy="744" r="5" fill="#437FC7"/>
+<circle cx="54.7143" cy="428.286" r="4.71429" transform="rotate(-90 54.7143 428.286)" fill="#437FC7"/>
+<circle cx="54.7143" cy="409.428" r="4.71429" transform="rotate(-90 54.7143 409.428)" fill="#437FC7"/>
+<circle cx="54.7143" cy="390.572" r="4.71429" transform="rotate(-90 54.7143 390.572)" fill="#437FC7"/>
+<circle cx="54.7143" cy="371.714" r="4.71429" transform="rotate(-90 54.7143 371.714)" fill="#437FC7"/>
+<circle cx="73.5715" cy="428.286" r="4.71429" transform="rotate(-90 73.5715 428.286)" fill="#437FC7"/>
+<circle cx="73.5715" cy="409.428" r="4.71429" transform="rotate(-90 73.5715 409.428)" fill="#437FC7"/>
+<circle cx="73.5715" cy="390.572" r="4.71429" transform="rotate(-90 73.5715 390.572)" fill="#437FC7"/>
+<circle cx="73.5715" cy="371.714" r="4.71429" transform="rotate(-90 73.5715 371.714)" fill="#437FC7"/>
+</svg>
