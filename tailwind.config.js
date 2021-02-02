@@ -16,6 +16,7 @@ module.exports = {
       backgroundImage: theme => ({
         'hero-pattern': "url('/assets/images/hero.svg')",
         'hero-pattern2': "url('/assets/images/hero2.svg')",
+        'hero-pattern-sm': "url('/assets/images/hero-sm.svg')",
         'skill-experience-pattern': "url('/assets/images/skill & experience bg.svg')",
         'skill-experience-pattern2': "url('/assets/images/skill & experience bg2.svg')",
         'blog-pattern': "url('/assets/images/blog.svg')",

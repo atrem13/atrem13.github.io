@@ -4472,6 +4472,10 @@ video {
   background-image: url('/assets/images/hero2.svg');
 }
 
+.bg-hero-pattern-sm {
+  background-image: url('/assets/images/hero-sm.svg');
+}
+
 .bg-skill-experience-pattern {
   background-image: url('/assets/images/skill & experience bg.svg');
 }
@@ -36526,6 +36530,10 @@ video {
     background-image: url('/assets/images/hero2.svg');
   }
 
+  .sm\:bg-hero-pattern-sm {
+    background-image: url('/assets/images/hero-sm.svg');
+  }
+
   .sm\:bg-skill-experience-pattern {
     background-image: url('/assets/images/skill & experience bg.svg');
   }
@@ -68500,6 +68508,10 @@ video {
 
   .md\:bg-hero-pattern2 {
     background-image: url('/assets/images/hero2.svg');
+  }
+
+  .md\:bg-hero-pattern-sm {
+    background-image: url('/assets/images/hero-sm.svg');
   }
 
   .md\:bg-skill-experience-pattern {
@@ -100478,6 +100490,10 @@ video {
     background-image: url('/assets/images/hero2.svg');
   }
 
+  .lg\:bg-hero-pattern-sm {
+    background-image: url('/assets/images/hero-sm.svg');
+  }
+
   .lg\:bg-skill-experience-pattern {
     background-image: url('/assets/images/skill & experience bg.svg');
   }
@@ -132454,6 +132470,10 @@ video {
     background-image: url('/assets/images/hero2.svg');
   }
 
+  .xl\:bg-hero-pattern-sm {
+    background-image: url('/assets/images/hero-sm.svg');
+  }
+
   .xl\:bg-skill-experience-pattern {
     background-image: url('/assets/images/skill & experience bg.svg');
   }
@@ -164428,6 +164448,10 @@ video {
 
   .\32xl\:bg-hero-pattern2 {
     background-image: url('/assets/images/hero2.svg');
+  }
+
+  .\32xl\:bg-hero-pattern-sm {
+    background-image: url('/assets/images/hero-sm.svg');
   }
 
   .\32xl\:bg-skill-experience-pattern {
