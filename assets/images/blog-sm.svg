@@ -3,34 +3,34 @@
 <rect width="720" height="1280" transform="matrix(-1 0 0 1 720 0)" fill="#EDF6FF"/>
 </mask>
 <g mask="url(#mask0)">
-<path d="M720 0H1.90735e-05V1280H720V0Z" fill="#EDF6FF"/>
+<path d="M720 0H0V1280H720V0Z" fill="#EDF6FF"/>
 </g>
-<circle cx="640" cy="898" r="5" fill="#437FC7"/>
-<circle cx="660" cy="898" r="5" fill="#437FC7"/>
-<circle cx="680" cy="898" r="5" fill="#437FC7"/>
-<circle cx="700" cy="898" r="5" fill="#437FC7"/>
-<circle cx="640" cy="918" r="5" fill="#437FC7"/>
-<circle cx="660" cy="918" r="5" fill="#437FC7"/>
-<circle cx="680" cy="918" r="5" fill="#437FC7"/>
-<circle cx="700" cy="918" r="5" fill="#437FC7"/>
-<circle cx="640" cy="938" r="5" fill="#437FC7"/>
-<circle cx="660" cy="938" r="5" fill="#437FC7"/>
-<circle cx="680" cy="938" r="5" fill="#437FC7"/>
-<circle cx="700" cy="938" r="5" fill="#437FC7"/>
-<circle cx="640" cy="958" r="5" fill="#437FC7"/>
-<circle cx="660" cy="958" r="5" fill="#437FC7"/>
-<circle cx="680" cy="958" r="5" fill="#437FC7"/>
-<circle cx="700" cy="958" r="5" fill="#437FC7"/>
-<circle cx="640" cy="978" r="5" fill="#437FC7"/>
-<circle cx="660" cy="978" r="5" fill="#437FC7"/>
-<circle cx="680" cy="978" r="5" fill="#437FC7"/>
-<circle cx="700" cy="978" r="5" fill="#437FC7"/>
-<circle cx="19.7143" cy="498.286" r="4.71429" transform="rotate(-90 19.7143 498.286)" fill="#437FC7"/>
-<circle cx="19.7143" cy="479.428" r="4.71429" transform="rotate(-90 19.7143 479.428)" fill="#437FC7"/>
-<circle cx="19.7143" cy="460.572" r="4.71429" transform="rotate(-90 19.7143 460.572)" fill="#437FC7"/>
-<circle cx="19.7143" cy="441.714" r="4.71429" transform="rotate(-90 19.7143 441.714)" fill="#437FC7"/>
-<circle cx="38.5715" cy="498.286" r="4.71429" transform="rotate(-90 38.5715 498.286)" fill="#437FC7"/>
-<circle cx="38.5715" cy="479.428" r="4.71429" transform="rotate(-90 38.5715 479.428)" fill="#437FC7"/>
-<circle cx="38.5715" cy="460.572" r="4.71429" transform="rotate(-90 38.5715 460.572)" fill="#437FC7"/>
-<circle cx="38.5715" cy="441.714" r="4.71429" transform="rotate(-90 38.5715 441.714)" fill="#437FC7"/>
+<circle cx="385" cy="1177" r="5" fill="#437FC7"/>
+<circle cx="405" cy="1177" r="5" fill="#437FC7"/>
+<circle cx="425" cy="1177" r="5" fill="#437FC7"/>
+<circle cx="445" cy="1177" r="5" fill="#437FC7"/>
+<circle cx="385" cy="1197" r="5" fill="#437FC7"/>
+<circle cx="405" cy="1197" r="5" fill="#437FC7"/>
+<circle cx="425" cy="1197" r="5" fill="#437FC7"/>
+<circle cx="445" cy="1197" r="5" fill="#437FC7"/>
+<circle cx="385" cy="1217" r="5" fill="#437FC7"/>
+<circle cx="405" cy="1217" r="5" fill="#437FC7"/>
+<circle cx="425" cy="1217" r="5" fill="#437FC7"/>
+<circle cx="445" cy="1217" r="5" fill="#437FC7"/>
+<circle cx="385" cy="1237" r="5" fill="#437FC7"/>
+<circle cx="405" cy="1237" r="5" fill="#437FC7"/>
+<circle cx="425" cy="1237" r="5" fill="#437FC7"/>
+<circle cx="445" cy="1237" r="5" fill="#437FC7"/>
+<circle cx="385" cy="1257" r="5" fill="#437FC7"/>
+<circle cx="405" cy="1257" r="5" fill="#437FC7"/>
+<circle cx="425" cy="1257" r="5" fill="#437FC7"/>
+<circle cx="445" cy="1257" r="5" fill="#437FC7"/>
+<circle cx="19.7143" cy="668.286" r="4.71429" transform="rotate(-90 19.7143 668.286)" fill="#437FC7"/>
+<circle cx="19.7143" cy="649.428" r="4.71429" transform="rotate(-90 19.7143 649.428)" fill="#437FC7"/>
+<circle cx="19.7143" cy="630.572" r="4.71429" transform="rotate(-90 19.7143 630.572)" fill="#437FC7"/>
+<circle cx="19.7143" cy="611.714" r="4.71429" transform="rotate(-90 19.7143 611.714)" fill="#437FC7"/>
+<circle cx="38.5715" cy="668.286" r="4.71429" transform="rotate(-90 38.5715 668.286)" fill="#437FC7"/>
+<circle cx="38.5715" cy="649.428" r="4.71429" transform="rotate(-90 38.5715 649.428)" fill="#437FC7"/>
+<circle cx="38.5715" cy="630.572" r="4.71429" transform="rotate(-90 38.5715 630.572)" fill="#437FC7"/>
+<circle cx="38.5715" cy="611.714" r="4.71429" transform="rotate(-90 38.5715 611.714)" fill="#437FC7"/>
 </svg>
